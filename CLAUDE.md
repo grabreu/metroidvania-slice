@@ -49,7 +49,7 @@ Future-you revisiting this months later, or someone browsing the portfolio to se
 
 ### Source
 
-No Unity project exists yet. Document the folder layout here once it is created.
+The Unity project lives at the repository root (Unity 6000.6.7f1, Universal 2D template, URP). Asset serialization is Force Text and `.meta` files are committed. Document the `Assets/` layout here once it is decided.
 
 ### Validation
 
@@ -58,8 +58,7 @@ TODO: no build or test commands yet. Define them once the Unity project exists.
 ### Open Questions
 
 - TODO: movement kit, combat model, number of area-gating abilities.
-- TODO: Unity version and 2D rendering pipeline.
 - TODO: art and audio source.
 - TODO: PlayMaker licensing (paid Asset Store plugin).
 - TODO: publishing target (itch.io is the usual option).
-- TODO: Git LFS and Unity `.gitignore` conventions.
+- TODO: Git LFS (art and audio).
