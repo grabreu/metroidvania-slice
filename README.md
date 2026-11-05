@@ -6,7 +6,7 @@
 
 ## Tech stack
 
-Unity · C# (core systems) · PlayMaker (visual FSMs for enemy, boss, and game-state behavior)
+Unity 6000.6.7f1 (Universal 2D, URP) · C# (core systems) · PlayMaker (visual FSMs for enemy, boss, and game-state behavior)
 
 ## Scope
 
@@ -23,12 +23,11 @@ Vertical slice, not a full game:
 - TODO: combat model.
 - TODO: how many abilities gate the area.
 - TODO: split between C# and PlayMaker.
-- TODO: Unity version and 2D rendering pipeline.
 - TODO: art and audio source (own, asset packs, placeholder).
 - TODO: setting, theme, and main character.
 - TODO: PlayMaker is a paid Asset Store plugin; confirm licensing before relying on it.
 - TODO: where to publish (itch.io is the usual option).
-- TODO: version control for Unity (Git LFS, `.gitignore` conventions).
+- TODO: Git LFS for art and audio.
 
 ## License
 
